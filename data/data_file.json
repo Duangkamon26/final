@@ -1,0 +1,18 @@
+{
+    "customer": [
+        {
+            "id": 1,
+            "name": "Win",
+            "result": "pass"
+        }
+    ],
+    "motorcycle": [
+        {
+            "id": 1,
+            "name": "motorcycles",
+            "price": 20000,
+            "down_payment": 5000,
+            "result": "pass"
+        }
+    ]
+}
